@@ -1,0 +1,14 @@
+version: "3"
+services:
+
+  # ubuntu server
+  ubuntu_test:
+    build: .
+    container_name: ubuntu
+    restart: always
+    command: ["sleep","infinity"]
+    volumes:
+      - '../:/exchange:rw'
+    ports:
+      - "5555:22"
+    network_mode: bridge

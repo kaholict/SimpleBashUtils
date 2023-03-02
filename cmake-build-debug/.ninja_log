@@ -1,0 +1,11 @@
+# ninja log v5
+0	196	1674591390000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/cat/test/cat.c.o	6bd5e093bb1f7cec
+1	196	1674591390000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/cat/cat.c.o	b25834cabc54b80a
+1	48	1674597813000000000	build.ninja	c27058813b71bc9b
+1	93	1674597690000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/grep/s21_grep.c.o	cb49854a1a4009c3
+1	147	1674591390000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/cat/s21_cat.c.o	928886f638294f50
+0	147	1674591390000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/cat/test/s21_cat.c.o	a6eafe9cf9bb1e9c
+94	148	1674597690000000000	C3_SimpleBashUtils_0	6f48f69f587850f
+2	47	1674597866000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/cat/s21_cat.c.o	1ac89ae1bc05efd3
+1	54	1674597866000000000	CMakeFiles/C3_SimpleBashUtils_0.dir/src/cat/cat.c.o	35b061b278cc0dff
+54	101	1674597866000000000	C3_SimpleBashUtils_0	e671755585322035
